@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">New Venture Company</string>
+    <string name="venture_name_">New Venture Company</string>
+    <string name="address">1 New Venture Way</string>
+    <string name="city">Boston</string>
+    <string name="state">MA</string>
+    <string name="city_state">Boston, MA</string>
+    <string name="phone">617&#8211;555&#8211;5555</string>
+    <string name="website">entrepreneurship.camp</string>
+    <string name="email">hi@entrepreneurship.camp</string>
+    <string name="venture_description">New Venture Company guides entrepreneurs through inspiration, ideation, and implementation of entrepreneurial endeavors.</string>
+    <string name="full_address">1 New Venture Way\nBoston, MA</string>
+    <string name="full_contact">617&#8211;555&#8211;5555\nentrepreneurship.camp\nhi@entrepreneurship.camp\n1 New Venture Way\nBoston, MA</string>
+    <string name="content_description_network">Network Picture</string>
+</resources>
